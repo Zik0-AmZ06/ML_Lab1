@@ -1,11 +1,5 @@
 # Lab12: Classification des fleurs iris en utilisant scikit-learn
-<<<<<<< HEAD
 # Réalisé par : Zak Amz EMSI 2023/2024
-||||||| 269088e
-# Réalisé par : Med Oussama Ouakouar EMSI 2023/2024
-=======
-# Réalisé par : Amz Zak EMSI 2023/2024
->>>>>>> origin/master
 
 from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
